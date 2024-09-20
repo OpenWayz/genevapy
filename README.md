@@ -1,10 +1,13 @@
-
 geneva.py
+--------------------------------------------
+
 yum install -y python3 python3-devel gcc gcc-c++ git libnetfilter* libffi-devel
 
 pip3 install --upgrade pip
 
 pip3 install scapy netfilterqueue
+
+-------------------------------------------------
 
 sudo apt-get install build-essential python3-dev libnetfilter-queue-dev libffi-dev libssl-dev iptables python3-pip -y
 
